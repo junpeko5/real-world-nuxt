@@ -1,11 +1,11 @@
 <template>
   <div>
-    <h1>Events</h1>
+    <h1>Create vue</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'CreatePage',
 }
 </script>
